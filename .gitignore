@@ -3,6 +3,8 @@ database.sqlite3
 wwconfig.sqlite3
 auth.json
 
+.DS_Store
+
 # Logs
 logs
 *.log
