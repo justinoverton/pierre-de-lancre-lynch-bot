@@ -1,5 +1,5 @@
 {
-  "name": "lynch-bot",
+  "name": "pierre-lynch-bot",
   "version": "1.0.0",
   "description": "Lynch Bot for counting votes for online werewolf games",
   "main": "index.js",
